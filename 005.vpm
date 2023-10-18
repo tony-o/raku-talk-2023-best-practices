@@ -21,6 +21,6 @@
 
                                                                   -- BE PICKY ABOUT YOUR AUTH
 
-                                                                  - Declare module level dependencies, do not rely upon distribution names
+                                                                  - Declare dist dependencies, do not rely upon module names
 
                                                                   - Native dependencies should mostly be included ala: somelib:from<native>
