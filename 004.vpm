@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+                                                                      ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗ █████╗  ██████╗███████╗███████╗
+                                                                      ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
+                                                                      ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝█████╗  ███████║██║     █████╗  ███████╗
+                                                                      ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗██╔══╝  ██╔══██║██║     ██╔══╝  ╚════██║
+                                                                      ██║██║ ╚████║   ██║   ███████╗██║  ██║██║     ██║  ██║╚██████╗███████╗███████║
+                                                                      ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+                                                                                                                                                    
+
+                                                                      - Think very carefully about how you'd want to use the interface
+
+                                                                      - Write tests first, flesh out the interface with pseudo objects
+
+                                                                      - Choosing Classes, Procedural styles, or a mix
+
+                                                                      - Do not be afraid to explore and see how others handle tricky designs
