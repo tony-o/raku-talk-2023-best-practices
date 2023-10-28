@@ -7,22 +7,16 @@
 
 
 
+                                                  Interfaces, continued...
 
+                                                  - Do NOT reinvent the wheel
 
-                                                                ███████╗ ██████╗ ██████╗ ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗
-                                                                ██╔════╝██╔════╝██╔═══██╗██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝
-                                                                █████╗  ██║     ██║   ██║███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗
-                                                                ██╔══╝  ██║     ██║   ██║╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║
-                                                                ███████╗╚██████╗╚██████╔╝███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║
-                                                                ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝
+                                                  - When to reinvent the wheel
 
-                                                                    
-                                                                        - Again, BE PICKY
+                                                  -- Key functionality missing from available options
 
-                                                                        - Bundling options
+                                                  -- Maintainer is AWOL
 
-                                                                        -- Fez: a shameless plug
+                                                  -- Learning
 
-                                                                        -- Mi6: another great tool
-
-                                                                        -- Manual: for the hardcore
+                                                  - Cascading modules for low level bindings

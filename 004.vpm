@@ -7,20 +7,27 @@
 
 
 
+                                            ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗ █████╗  ██████╗███████╗███████╗
+                                            ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
+                                            ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝█████╗  ███████║██║     █████╗  ███████╗
+                                            ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗██╔══╝  ██╔══██║██║     ██╔══╝  ╚════██║
+                                            ██║██║ ╚████║   ██║   ███████╗██║  ██║██║     ██║  ██║╚██████╗███████╗███████║
+                                            ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+                                                                                                                
 
+                                                  - Think very carefully about how you'd want to use the interface
 
-                                                                      ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗ █████╗  ██████╗███████╗███████╗
-                                                                      ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
-                                                                      ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝█████╗  ███████║██║     █████╗  ███████╗
-                                                                      ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗██╔══╝  ██╔══██║██║     ██╔══╝  ╚════██║
-                                                                      ██║██║ ╚████║   ██║   ███████╗██║  ██║██║     ██║  ██║╚██████╗███████╗███████║
-                                                                      ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
-                                                                                                                                                    
+                                                  -- Design to the user, not the library or to the problem
 
-                                                                      - Think very carefully about how you'd want to use the interface
+                                                  - Write tests first, flesh out the interface with pseudo objects
 
-                                                                      - Write tests first, flesh out the interface with pseudo objects
+                                                  -- Not advocating TDD but tests help you think about how your module
+                                                     will be used by your audience
 
-                                                                      - Choosing Classes, Procedural styles, or a mix
+                                                  - Choosing Classes, Procedural styles, or a mix
 
-                                                                      - Do not be afraid to explore and see how others handle tricky designs
+                                                  -- Do not go directly to classes unless you need state or context
+
+                                                  - Be succinct
+
+                                                  - Do not be afraid to explore and see how others handle tricky designs

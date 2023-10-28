@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+                                    ██████╗ ███████╗██████╗ ███████╗███╗   ██╗██████╗ ███████╗███╗   ██╗ ██████╗██╗███████╗███████╗
+                                    ██╔══██╗██╔════╝██╔══██╗██╔════╝████╗  ██║██╔══██╗██╔════╝████╗  ██║██╔════╝██║██╔════╝██╔════╝
+                                    ██║  ██║█████╗  ██████╔╝█████╗  ██╔██╗ ██║██║  ██║█████╗  ██╔██╗ ██║██║     ██║█████╗  ███████╗
+                                    ██║  ██║██╔══╝  ██╔═══╝ ██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ██║╚██╗██║██║     ██║██╔══╝  ╚════██║
+                                    ██████╔╝███████╗██║     ███████╗██║ ╚████║██████╔╝███████╗██║ ╚████║╚██████╗██║███████╗███████║
+                                    ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═╝╚══════╝╚══════╝
+                                                                                                                                                 
+
+                                                  - BE PICKY ABOUT YOUR AUTH
+                                                  
+                                                  - Be very specific in your META6.json
+
+                                                  -- Use full dist names for dependencies: dist_name:ver<>:auth<>
+
+                                                  - Declare dist dependencies, do not rely upon module names
+
+                                                  -- '"depends": ["Cro::HTTP"]' can be given from a strict auth (zef) or from a 
+                                                     loose auth (cpan)
+
+                                                  - Native dependencies should mostly be included ala: somelib:from<native>
